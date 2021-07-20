@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gameloop-clone/static/css/main.93c3b860.chunk.css",
+    "main.js": "/gameloop-clone/static/js/main.f8e8c56c.chunk.js",
+    "main.js.map": "/gameloop-clone/static/js/main.f8e8c56c.chunk.js.map",
+    "runtime-main.js": "/gameloop-clone/static/js/runtime-main.a577bed0.js",
+    "runtime-main.js.map": "/gameloop-clone/static/js/runtime-main.a577bed0.js.map",
+    "static/css/2.d647409e.chunk.css": "/gameloop-clone/static/css/2.d647409e.chunk.css",
+    "static/js/2.02e431fa.chunk.js": "/gameloop-clone/static/js/2.02e431fa.chunk.js",
+    "static/js/2.02e431fa.chunk.js.map": "/gameloop-clone/static/js/2.02e431fa.chunk.js.map",
+    "index.html": "/gameloop-clone/index.html",
+    "static/css/2.d647409e.chunk.css.map": "/gameloop-clone/static/css/2.d647409e.chunk.css.map",
+    "static/css/main.93c3b860.chunk.css.map": "/gameloop-clone/static/css/main.93c3b860.chunk.css.map",
+    "static/js/2.02e431fa.chunk.js.LICENSE.txt": "/gameloop-clone/static/js/2.02e431fa.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/gameloop-clone/static/media/slick.c94f7671.ttf",
+    "static/media/slider-1.4b0ddb95.png": "/gameloop-clone/static/media/slider-1.4b0ddb95.png",
+    "static/media/slider-2.31b9b173.jpg": "/gameloop-clone/static/media/slider-2.31b9b173.jpg",
+    "static/media/slider-3.c306be89.jpg": "/gameloop-clone/static/media/slider-3.c306be89.jpg",
+    "static/media/slider-4.07fbf651.jpg": "/gameloop-clone/static/media/slider-4.07fbf651.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a577bed0.js",
+    "static/css/2.d647409e.chunk.css",
+    "static/js/2.02e431fa.chunk.js",
+    "static/css/main.93c3b860.chunk.css",
+    "static/js/main.f8e8c56c.chunk.js"
+  ]
+}
